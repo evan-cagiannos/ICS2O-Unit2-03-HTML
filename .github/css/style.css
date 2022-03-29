@@ -37,7 +37,7 @@ p.subheader {
 
 div {
   font-weight: bold;
-  color: #ee68e;
+  color: #ee68;
   margin: 5px;
 }
 
@@ -52,7 +52,7 @@ a {
 
 a:link,
 a:visited {
-  color: #807d6;
+  color: #24c8ffdd6;
 }
 
 a:hover,
