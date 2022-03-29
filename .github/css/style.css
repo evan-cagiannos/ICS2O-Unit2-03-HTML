@@ -50,11 +50,6 @@ a {
   text-decoration: none;
 }
 
-a:link,
-a:visited {
-  color: #24c8ffdd6;
-}
-
 a:hover,
 a:active {
   color: #f93;
